@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 Currently I'm working on MERN Stack.<br>📗 I am learning the Web Development right now.<br>🤝 I'm free to collaborate with any interested web developer.<br>🏫 Currently I'm studying the BSc in Computer Science and Information Technology.<br>🎤 Ask me about web related topics.
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=UIPgoqfc&id=6AF450204E4F9FA0A368B0834CD1678D2704436C&thid=OIP.UIPgoqfcquB8FC6LhwNqJwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1162077%2fscreenshots%2f4649464%2fskatter-programmer.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5083e0a2a7dcaae07c142e8b87036a27%3frik%3dbEMEJ41n0UyDsA%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=programmer+animated+gif&simid=608056254597038980&FORM=IRPRST&ck=19FF7B51359AFEFE8C1E43CE8F4CAF35&selectedIndex=17&itb=0&ajaxhist=0&ajaxserp=0" >
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" >
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sucth714) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Subash Chand Thakuri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@actors_f) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Code Hearted) 
