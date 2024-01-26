@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="sucth714-animation.html" />
+<img src="https://t3.ftcdn.net/jpg/04/23/62/24/360_F_423622471_o5gD3I9zNCoOd6GkQs26fJH4t7rTOmA3.jpg" />
 
 <!--
 **Subash-Chand-Thakuri/Subash-Chand-Thakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
