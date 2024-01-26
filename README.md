@@ -3,6 +3,9 @@
 <h3 align="center">A passionate software engineer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash-chand-thakuri&label=Profile%20views&color=0e75b6&style=flat" alt="subash-chand-thakuri" /> </p>
+---
+
+### :man_technologist: About Me :
 
 - 🔭 I’m currently working on **web development.**
 
