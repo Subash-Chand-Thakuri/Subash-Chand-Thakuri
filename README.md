@@ -37,7 +37,7 @@
 <details>
      <summary><b>:nut_and_bolt: &nbsp;Names:</b></summary>
   <br/>
-    <a href="https://gptcodex-lby3.onrender.com/"><h1>GPT CLONE</h1></a>
+    <a href="https://gptcodex-lby3.onrender.com/" rel="noreferrer"><h1>GPT CLONE</h1></a>
 </details>
 
 ---
