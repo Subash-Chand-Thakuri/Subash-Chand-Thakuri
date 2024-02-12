@@ -33,6 +33,11 @@
 
 ---
 
+### :fireworks: Deployed Projects:
+<details>
+    <p align="center"><a href="https://gptcodex-lby3.onrender.com/"><h1>GPT CLONE</h1></a></p>
+</details>
+
 ### :fire: My Stats :
 <details>
     <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
