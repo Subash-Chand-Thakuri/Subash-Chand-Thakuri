@@ -37,8 +37,10 @@
 <details>
      <summary><b>:nut_and_bolt: &nbsp;Names:</b></summary>
   <br/>
-    <p align="center"><a href="https://gptcodex-lby3.onrender.com/"><h1>GPT CLONE</h1></a></p>
+    <a href="https://gptcodex-lby3.onrender.com/"><h1>GPT CLONE</h1></a>
 </details>
+
+---
 
 ### :fire: My Stats :
 <details>
