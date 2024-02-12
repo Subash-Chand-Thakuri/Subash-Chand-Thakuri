@@ -37,7 +37,7 @@
 <details>
      <summary><b>:nut_and_bolt: &nbsp;Names:</b></summary>
   <br/>
-    <a href="https://gptcodex-lby3.onrender.com/" rel="noreferrer">CHECK</a>
+    <a href="https://gpt-clone-brown.vercel.app" target="_blank" rel="referrer">CHECK</a>
 </details>
 
 
