@@ -39,6 +39,7 @@
   <br/>
     <a href="https://gptcodex-lby3.onrender.com/" rel="noreferrer"><h1>GPT CLONE</h1></a>
 </details>
+<a href="https://gptcodex-lby3.onrender.com/" rel="noreferrer"><h1>GPT CLONE</h1></a>
 
 ---
 
