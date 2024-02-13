@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2021/07/31/08/22/network-6511448_1280.jpg" height="300"  />
+<img src="https://cdn.pixabay.com/photo/2021/07/31/08/22/network-6511448_1280.jpg"  />
 <h1 align="center">Hi 👋, I'm Subash Chand Thakuri</h1>
 <h3 align="center">A passionate software engineer from Nepal.</h3>
 
@@ -37,7 +37,7 @@
 <details>
      <summary><b>:nut_and_bolt: &nbsp;Names:</b></summary>
   <br/>
-     <p align="left>
+     <p align="left">
     <a href="https://gpt-clone-brown.vercel.app" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707794334/Screenshot_2024-02-13_090124_xtjtrk.png" alt="gptClone" width="400" height="330" /></a>
       <a href="https://sanity-nextjs-gold.vercel.app" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707795358/Screenshot_2024-01-14_014312_ozxngl.png" alt="SanityWebsite" width="400" height="250" /></a>
      </p>
