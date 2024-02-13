@@ -37,7 +37,7 @@
 <details>
      <summary><b>:nut_and_bolt: &nbsp;Names:</b></summary>
   <br/>
-    <a href="https://gpt-clone-brown.vercel.app" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707794334/Screenshot_2024-02-13_090124_xtjtrk.png" alt="gptClone" width="400" height="400" /></a>
+    <a href="https://gpt-clone-brown.vercel.app" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707794334/Screenshot_2024-02-13_090124_xtjtrk.png" alt="gptClone" width="400" height="300" /></a>
 </details>
 
 
