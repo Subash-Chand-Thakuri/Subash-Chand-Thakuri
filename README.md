@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2021/07/31/08/22/network-6511448_1280.jpg"  />
+<img src="https://mpolinowski.github.io/Personal/personal_assets/img/tools_banner.webp"  />
 <h1 align="center">Hi 👋, I'm Subash Chand Thakuri</h1>
 <h3 align="center">A passionate software engineer from Nepal.</h3>
 
