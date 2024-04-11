@@ -34,6 +34,7 @@
 ---
 
 ### :fireworks: Deployed Projects:
+### Click on the cards to view the deplpyed project
 <details>
      <summary><b>:nut_and_bolt: &nbsp;Names:</b></summary>
   <br/>
