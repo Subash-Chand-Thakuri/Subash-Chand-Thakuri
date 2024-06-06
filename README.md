@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **web development.**
 
-- 👯 I’m looking to collaborate on **curious and related projects.**
+- 👯 I’m looking to collaborate on **web projects**
 
-- 🤝 I’m looking for help with **anyone who desires.**
+- 🤝 I’m looking for help if **someone has helping spirit.**
 
-- 💬 Ask me about **react, nextjs**
+- 💬 Ask me about **MERN, NEXT.JS,DJANGO**
 
 - 📫 How to reach me **subashthakuri799@gmail.com**
 
