@@ -12,7 +12,8 @@
 
 - 🤝 I’m looking for help if **someone has helping spirit.**
 
-- 💬 Ask me about **MERN, NEXT.JS,DJANGO**
+- 💬 Ask me about **MERN, NEXT.JS,REACT NATIVE**
+- :chart_with_upwards_trend: Currently I am learning Asp.Net Core Web Api and Angular.
 
 - 📫 How to reach me **subashthakuri799@gmail.com**
 
