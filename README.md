@@ -39,6 +39,12 @@
   <br/>
     <div>
           <p>
+    <a href="https://subashchandthakuri.com.np" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197914/Screenshot-2_bvctqa.png" alt="gptClone" width="500" height="330" />
+    </a>
+      </p>
+         <br>
+     <p>
+          <p>
     <a href="https://chat-app-mern-lmye.vercel.app/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1716093701/signup_qq3c26.png" alt="gptClone" width="400" height="330" />
     </a>
       </p>
