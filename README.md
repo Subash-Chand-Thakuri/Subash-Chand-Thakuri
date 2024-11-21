@@ -37,41 +37,34 @@
 ### :fireworks: Deployed Projects:
 
   <br/>
-    <div>
-          <p>
-    <a href="https://subashchandthakuri.com.np" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197914/Screenshot-2_bvctqa.png" alt="gptClone" width="500" height="330" />
+   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <!-- First row with two images -->
+  <div style="flex: 1 0 45%; max-width: 45%;">
+    <a href="https://subashchandthakuri.com.np" target="_blank" rel="noreferrer">
+      <img src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197914/Screenshot-2_bvctqa.png" alt="Portfolio" width="100%" />
     </a>
-      </p>
-         <br>
-     <p>
-          <p>
-    <a href="https://chat-app-mern-lmye.vercel.app/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1716093701/signup_qq3c26.png" alt="gptClone" width="400" height="330" />
+  </div>
+  <div style="flex: 1 0 45%; max-width: 45%;">
+    <a href="https://chat-app-mern-lmye.vercel.app/" target="_blank" rel="noreferrer">
+      <img src="https://res.cloudinary.com/diemdrcq6/image/upload/v1716093701/signup_qq3c26.png" alt="Chat App" width="100%" />
     </a>
-      </p>
-         <br>
-     <p>
-          <p>
-    <a href="https://www.sndcares.com/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197424/Screenshot-1_pqkifc.png" alt="gptClone" width="500" height="330" />
+  </div>
+
+  <!-- Second row with remaining images -->
+  <div style="flex: 1 0 45%; max-width: 45%;">
+    <a href="https://www.sndcares.com/" target="_blank" rel="noreferrer">
+      <img src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197424/Screenshot-1_pqkifc.png" alt="SND Cares" width="100%" />
     </a>
-      </p>
-         <br>
-     <p>
-    <a href="https://gpt-clone-brown.vercel.app" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707794334/Screenshot_2024-02-13_090124_xtjtrk.png" alt="gptClone" width="400" height="330" />
+  </div>
+  <div style="flex: 1 0 45%; max-width: 45%;">
+    <a href="https://gpt-clone-brown.vercel.app" target="_blank" rel="noreferrer">
+      <img src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707794334/Screenshot_2024-02-13_090124_xtjtrk.png" alt="GPT Clone" width="100%" />
     </a>
-      </p>
-         <br>
-     <p>
-      <a href="https://sanity-nextjs-gold.vercel.app" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707795358/Screenshot_2024-01-14_014312_ozxngl.png" alt="SanityWebsite" width="520" height="330" /></a>
-     </p>
-         <br>
-      <p>
-      <a href="https://music-course-app-eppx.vercel.app/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1712854211/g2v0c1noj7z26hqtiuwo.png" alt="Music-course-app" width="500" height="330" /></a>
-     </p>
-         <br>
-      <p>
-      <a href="https://65cb6fc4421bb800acd13bb8--thriving-pegasus-b1fc50.netlify.app/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707831847/Screenshot_2024-02-13_192639_fdujux.png" alt="Article Summarizer" width="450" height="330" /></a>
-     </p>
-    </div>
+  </div>
+
+</div>
+
        
 
 ---
