@@ -36,12 +36,17 @@
 
 ### :fireworks: Deployed Projects:
 ### Click on the cards to view the deployed project
-<details>
-     <summary><b>:nut_and_bolt: &nbsp;Click Here To View PROJECTS:</b></summary>
+
   <br/>
     <div>
           <p>
     <a href="https://chat-app-mern-lmye.vercel.app/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1716093701/signup_qq3c26.png" alt="gptClone" width="400" height="330" />
+    </a>
+      </p>
+         <br>
+     <p>
+          <p>
+    <a href="https://www.sndcares.com/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197424/Screenshot-1_pqkifc.png" alt="gptClone" width="400" height="330" />
     </a>
       </p>
          <br>
@@ -63,7 +68,7 @@
      </p>
     </div>
        
-</details>
+
 
 
 ---
