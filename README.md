@@ -35,7 +35,6 @@
 ---
 
 ### :fireworks: Deployed Projects:
-### Click on the cards to view the deployed project
 
   <br/>
     <div>
@@ -46,7 +45,7 @@
          <br>
      <p>
           <p>
-    <a href="https://www.sndcares.com/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197424/Screenshot-1_pqkifc.png" alt="gptClone" width="400" height="330" />
+    <a href="https://www.sndcares.com/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197424/Screenshot-1_pqkifc.png" alt="gptClone" width="500" height="330" />
     </a>
       </p>
          <br>
