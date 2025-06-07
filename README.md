@@ -60,10 +60,6 @@
     </a>
       </p>
          <br>
-     <p>
-      <a href="https://sanity-nextjs-gold.vercel.app" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707795358/Screenshot_2024-01-14_014312_ozxngl.png" alt="SanityWebsite" width="520" height="330" /></a>
-     </p>
-         <br>
       <p>
       <a href="https://music-course-app-eppx.vercel.app/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1712854211/g2v0c1noj7z26hqtiuwo.png" alt="Music-course-app" width="500" height="330" /></a>
      </p>
@@ -72,8 +68,7 @@
       <p>
       <a href="https://uk-linknepal.com/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1736521708/uk-linknepal_sh7lve.png" alt="UK Link Nepal" width="500" height="330" /></a>
      </p>
-         <br>
-    
+         <br>    
     </div>
 
        
