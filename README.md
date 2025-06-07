@@ -73,9 +73,7 @@
       <a href="https://uk-linknepal.com/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1736521708/uk-linknepal_sh7lve.png" alt="UK Link Nepal" width="500" height="330" /></a>
      </p>
          <br>
-      <p>
-      <a href="https://65cb6fc4421bb800acd13bb8--thriving-pegasus-b1fc50.netlify.app/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707831847/Screenshot_2024-02-13_192639_fdujux.png" alt="Article Summarizer" width="450" height="330" /></a>
-     </p>
+    
     </div>
 
        
