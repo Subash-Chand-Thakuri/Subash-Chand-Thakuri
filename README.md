@@ -33,8 +33,6 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
-<h3 align="center">🛠 Languages and Tools:</h3>
-
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <!-- Row 1 -->
   <tr>
