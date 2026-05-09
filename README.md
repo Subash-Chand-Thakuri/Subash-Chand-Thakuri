@@ -34,48 +34,6 @@
 
 ---
 
-### :fireworks: Deployed Projects:
-
-  <br/>
-    <div>
-          <p>
-    <a href="https://subashchandthakuri.com.np" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197914/Screenshot-2_bvctqa.png" alt="gptClone" width="500" height="330" />
-    </a>
-      </p>
-         <br>
-     <p>
-          <p>
-    <a href="https://chat-app-mern-lmye.vercel.app/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1716093701/signup_qq3c26.png" alt="gptClone" width="400" height="330" />
-    </a>
-      </p>
-         <br>
-     <p>
-          <p>
-    <a href="https://www.sndcares.com/" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1732197424/Screenshot-1_pqkifc.png" alt="gptClone" width="500" height="330" />
-    </a>
-      </p>
-         <br>
-     <p>
-    <a href="https://gpt-clone-brown.vercel.app" target="_blank" rel="noreferrer"><img align="left" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1707794334/Screenshot_2024-02-13_090124_xtjtrk.png" alt="gptClone" width="400" height="330" />
-    </a>
-      </p>
-         <br>
-         <br>
-      <p>
-      <a href="https://music-course-app-eppx.vercel.app/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1712854211/g2v0c1noj7z26hqtiuwo.png" alt="Music-course-app" width="500" height="330" /></a>
-     </p>
-         <br>
-      <p>
-      <p>
-      <a href="https://uk-linknepal.com/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/diemdrcq6/image/upload/v1736521708/uk-linknepal_sh7lve.png" alt="UK Link Nepal" width="500" height="330" /></a>
-     </p>
-         <br>    
-    </div>
-
-       
-
----
-
 ### :fire: My Stats:
 
 <details>
