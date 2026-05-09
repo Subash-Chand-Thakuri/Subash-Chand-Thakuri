@@ -21,10 +21,7 @@
 
 ### :traffic_light:Connect with me:
 <p align="left">
-<a href="https://twitter.com/actors_f" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="actors_f" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subash-chand-thakuri-b341a2235/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subash-chand-thakuri-b341a2235/" height="30" width="40" /></a>
-<a href="https://instagram.com/sucth714" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sucth714" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCoaC9ldpO7vjoyWGbP8bF9g" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codehearted9800" height="30" width="40" /></a>
+<a href="https://twitter.com/actors_f" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a><a href="https://www.linkedin.com/in/subash-chand-thakuri-b341a2235/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a><a href="https://instagram.com/sucth714" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCoaC9ldpO7vjoyWGbP8bF9g" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 ---
