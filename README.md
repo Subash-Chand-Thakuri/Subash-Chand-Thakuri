@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help if **someone has helping spirit.**
 
 - 💬 Ask me about **MERN, NEXT.JS,REACT NATIVE**
-- :chart_with_upwards_trend: Currently I am NestJS and DevOps.
+- :chart_with_upwards_trend: Currently learning DevOps.
 
 - 📫 How to reach me **subashthakuri799@gmail.com**
 
